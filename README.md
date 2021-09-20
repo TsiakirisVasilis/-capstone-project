@@ -1,4 +1,4 @@
-# -capstone-project
+# IBM Data Science Project
 
 ## Edditing the file
 
